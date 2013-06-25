@@ -1,0 +1,6 @@
+*{margin:0; padding:0;}
+.sm {list-style:none; width:900px; height:436px; display:block; }
+.sm li {float:left; display:inline;}
+.sm li a {float:left; display:inline;}
+.sm li img { border: 0px; }
+.mydiv{ overflow:hidden; width:995px; margin:0 auto;}
